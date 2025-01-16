@@ -203,9 +203,9 @@ exclude:
   - readme_preview/
   - vendor
   - _posts/
-  - _pages/news.md
   - _pages/profiles.md
   - _pages/projects.md
+  - _pages/dropdown.md
 keep_files:
   - CNAME
   - .nojekyll
