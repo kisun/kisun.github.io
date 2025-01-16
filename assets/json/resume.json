@@ -1,36 +1,36 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Kisun Pokharel",
+    "label": "Senior Scientist",
     "image": "",
-    "email": "albert@einstein.de",
+    "email": "kisun.pokharel@luke.fi",
     "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "url": "https://kisun.github.io/",
+    "summary": "Bioinformatician applying genomic tools to study different species",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
+      "address": "Tietotie 4",
+      "postalCode": "FI-31600",
+      "city": "Jokioinen",
+      "countryCode": "Finland",
       "region": "California"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "KisunPokharel",
+        "url": "https://x.com/KisunPokharel"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "Natural Resources Institute Finland Luke",
+      "position": "Senior Scientist, Bioinformatics",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
+      "startDate": "2015-01-01",
       "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "summary": "I am working as a Bioinformatician in Statistical Methods group at Luke.",
+      "highlights": ["Genomics"]
     }
   ],
   "volunteer": [
@@ -47,15 +47,15 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of Helsinki, Helsinki, Finland",
+      "location": "Helsinki, Finland",
+      "url": "https://www.helsinki.fi/en/",
+      "area": "Genetics",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "2013-01-01",
+      "endDate": "2020-01-01",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Genomics, Bioinformatics"]
     }
   ],
   "awards": [
