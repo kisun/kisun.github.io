@@ -134,6 +134,8 @@
     {
       "name": "Badminton",
       "icon": "fa-solid fa-tag",
+    },
+    {
       "name": "Frisbee Golf",
       "icon": "fa-solid fa-location-dot"
     }
