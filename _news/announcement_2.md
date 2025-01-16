@@ -8,6 +8,8 @@ related_posts: false
 
 I attended International Data forum (15.09.2016) and 8th plenary meeting of Research Data Alliance (RDA; 16.-17.09.2016) which were organized as part of International Data Week in Denver, USA. I would like to first thank RDA-EU for providing the early career award.
 
+---
+
 As part of my PhD project, I am working with DNA and RNA sequence data from different animal species and my work heavily depends on open-source tools and software for analyzing the data. In addition to using my own data and sharing to public, I heavily depend on open-source data and databases for conducting my research. Thus, I already belong to the community of data science. However, attending the IDF and RDA plenary meeting in Denver provided a vast array of aspects associated with data science that I never realized.
 
 At international data forum (IDF), a series of keynote talks and panel discussions highlighted both the opportunities and challenges of the data revolutions. The whole day meeting was divided into five different panel sessions. While the discussions and presentations during the International Data Forum were more general, the RDA plenary sessions gave a very good understanding of how people from industry, government and academia are working together under the umbrella of RDA in terms of data generation, data management, data analysis and data sharing.
