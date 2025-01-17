@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "Here is my CV. Do not hesitate to contact me for more information. CV last updated on January 16, 2025",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -109,6 +109,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("mailto:%6B%69%73%75%6E.%70%6F%6B%68%61%72%65%6C@%6C%75%6B%65.%66%69", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/kisun", "_blank");
         },
       },{
         id: 'social-linkedin',
