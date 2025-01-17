@@ -63,6 +63,11 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
+            },},{id: "projects-8th-rda-plenary-an-early-career-perspectives",
+          title: '8th RDA Plenary An Early Career Perspectives',
+          description: "Report written after RDA Plenary in Denver",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/RDAPlenary/";
             },},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
