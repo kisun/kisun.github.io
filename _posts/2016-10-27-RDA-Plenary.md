@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 8th RDA Plenary - An Early Career Perspectives
+title: 8th RDA Plenary An Early Career Perspectives
 date: 2016-10-27 16:40:16
 description: Report written after RDA Plenary in Denver
 tags: open-data reproducibility
