@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-genomics-of-finnish-reindeer",
+        },{id: "post-a-post-with-image-galleries",
+      
+        title: "a post with image galleries",
+      
+      description: "this is what included image galleries could look like",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/photo-gallery/";
+        
+      },
+    },{id: "post-genomics-of-finnish-reindeer",
       
         title: 'Genomics of Finnish reindeer <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
       
@@ -41,22 +52,39 @@ ninja.data = [{
           window.open("https://www.linkedin.com/pulse/reference-genome-finnish-reindeer-kisun-pokharel/?trackingId=deLM7hI0TUCprPNCwqkbUQ%3D%3D", "_blank");
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+    },{id: "post-8th-rda-plenary-an-early-career-perspectives",
+      
+        title: "8th RDA Plenary An Early Career Perspectives",
+      
+      description: "Report written after RDA Plenary in Denver",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2016/RDAPlenary/";
+        
+      },
+    },{id: "post-a-post-with-images",
+      
+        title: "a post with images",
+      
+      description: "this is what included images could look like",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2015/images/";
+        
+      },
+    },{id: "news-personal-webpage-of-kisun-pokharel-launched",
+          title: 'Personal Webpage of Kisun Pokharel Launched.',
           description: "",
-          section: "News",},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-rodney-okwasiimire-started-his-phd-project",
+          title: 'Rodney Okwasiimire started his PhD project',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-8th-rda-plenary-an-early-career-perspectives",
-          title: '8th RDA Plenary An Early Career Perspectives',
-          description: "Report written after RDA Plenary in Denver",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/RDAPlenary/";
             },},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
