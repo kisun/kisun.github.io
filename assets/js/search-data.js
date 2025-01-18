@@ -63,7 +63,18 @@ ninja.data = [{
           window.location.href = "/blog/2016/RDAPlenary/";
         
       },
-    },{id: "news-personal-webpage-of-kisun-pokharel-launched",
+    },{id: "news-my-position-in-luke-was-changed-to-permanent",
+          title: 'My Position in Luke was changed to Permanent',
+          description: "",
+          section: "News",},{id: "news-i-defended-my-phd",
+          title: 'I defended my PhD',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_5/";
+            },},{id: "news-i-was-promoted-to-senior-scientist-starting-january-1-2023",
+          title: 'I was promoted to Senior Scientist starting January 1, 2023.',
+          description: "",
+          section: "News",},{id: "news-personal-webpage-of-kisun-pokharel-launched",
           title: 'Personal Webpage of Kisun Pokharel Launched.',
           description: "",
           section: "News",},{id: "news-rodney-okwasiimire-started-his-phd-project",
