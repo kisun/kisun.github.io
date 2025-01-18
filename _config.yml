@@ -199,7 +199,6 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-  - _posts/
   - _pages/profiles.md
   - _pages/projects.md
   - _pages/dropdown.md
