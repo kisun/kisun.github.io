@@ -30,15 +30,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-a-post-with-image-galleries",
+        },{id: "post-new-research-on-reindeer-genomics-published",
       
-        title: "a post with image galleries",
+        title: "New research on reindeer genomics published",
       
-      description: "this is what included image galleries could look like",
+      description: "Updated Reindeer Genome Assembly and New Insights into the Population Genomics of Reindeer",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2024/photo-gallery/";
+          window.location.href = "/blog/2023/ReindeerWGS/";
         
       },
     },{id: "post-genomics-of-finnish-reindeer",
@@ -63,17 +63,6 @@ ninja.data = [{
           window.location.href = "/blog/2016/RDAPlenary/";
         
       },
-    },{id: "post-a-post-with-images",
-      
-        title: "a post with images",
-      
-      description: "this is what included images could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2015/images/";
-        
-      },
     },{id: "news-personal-webpage-of-kisun-pokharel-launched",
           title: 'Personal Webpage of Kisun Pokharel Launched.',
           description: "",
@@ -85,6 +74,16 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
+            },},{id: "projects-a-post-with-images",
+          title: 'a post with images',
+          description: "this is what included images could look like",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/images/";
+            },},{id: "projects-a-post-with-image-galleries",
+          title: 'a post with image galleries',
+          description: "this is what included image galleries could look like",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/photo-gallery/";
             },},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
