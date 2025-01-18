@@ -41,6 +41,17 @@ ninja.data = [{
           window.location.href = "/blog/2023/ReindeerWGS/";
         
       },
+    },{id: "post-isag-conference-in-cape-town-south-africa",
+      
+        title: "ISAG Conference in Cape Town, South Africa",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2023/isag39/";
+        
+      },
     },{id: "post-genomics-of-finnish-reindeer",
       
         title: 'Genomics of Finnish reindeer <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
@@ -63,18 +74,12 @@ ninja.data = [{
           window.location.href = "/blog/2016/RDAPlenary/";
         
       },
-    },{id: "news-my-position-in-luke-was-changed-to-permanent",
-          title: 'My Position in Luke was changed to Permanent',
-          description: "",
-          section: "News",},{id: "news-i-defended-my-phd",
+    },{id: "news-i-defended-my-phd",
           title: 'I defended my PhD',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_5/";
-            },},{id: "news-i-was-promoted-to-senior-scientist-starting-january-1-2023",
-          title: 'I was promoted to Senior Scientist starting January 1, 2023.',
-          description: "",
-          section: "News",},{id: "news-personal-webpage-of-kisun-pokharel-launched",
+            },},{id: "news-personal-webpage-of-kisun-pokharel-launched",
           title: 'Personal Webpage of Kisun Pokharel Launched.',
           description: "",
           section: "News",},{id: "news-rodney-okwasiimire-started-his-phd-project",
